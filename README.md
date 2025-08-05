@@ -87,7 +87,7 @@ GIF created with google recording extension
 
 Describe any challenges encountered while building the app.
 - Ran into a few issues with routing posts and making sure data loaded right. 
-- Handling upvotes and edits without user accounts was tricky, so had to come up with a simple workaround. 
+- Handling upvotes and edits without user accounts was tricky
 - Also had to deal with async stuff messing up how things showed up sometimes.
 
 ## License
