@@ -75,7 +75,7 @@ Here's a walkthrough of implemented user stories:
 ## Form Edit 
 <img src="src/assets/instant_goals_edit_demo.gif" title='Video Walkthrough' width='' alt='Video Walkthrough' />
 ## Search Functionality
-<img src="src/assets/pokemon_demo4.gif" title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src="src/assets/instant_goals_search_demo.gif" title='Video Walkthrough' width='' alt='Video Walkthrough' />
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with google recording extension 
 <!-- Recommended tools:
